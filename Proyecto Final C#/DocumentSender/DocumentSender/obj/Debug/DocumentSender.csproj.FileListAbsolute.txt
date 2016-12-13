@@ -1,0 +1,37 @@
+c:\users\maestro\documents\visual studio 2012\Projects\DocumentSender\DocumentSender\bin\Debug\DocumentSender.exe.config
+c:\users\maestro\documents\visual studio 2012\Projects\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Formularios.Principal.resources
+c:\users\maestro\documents\visual studio 2012\Projects\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Properties.Resources.resources
+c:\users\maestro\documents\visual studio 2012\Projects\DocumentSender\DocumentSender\obj\Debug\DocumentSender.csproj.GenerateResource.Cache
+c:\users\maestro\documents\visual studio 2012\Projects\DocumentSender\DocumentSender\bin\Debug\DocumentSender.exe
+c:\users\maestro\documents\visual studio 2012\Projects\DocumentSender\DocumentSender\bin\Debug\DocumentSender.pdb
+c:\users\maestro\documents\visual studio 2012\Projects\DocumentSender\DocumentSender\obj\Debug\DocumentSender.exe
+c:\users\maestro\documents\visual studio 2012\Projects\DocumentSender\DocumentSender\obj\Debug\DocumentSender.pdb
+c:\users\maestro\documents\visual studio 2012\Projects\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Formularios.AgEmpleado.resources
+c:\users\maestro\documents\visual studio 2012\Projects\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Formularios.AgDepartamento.resources
+c:\users\maestro\documents\visual studio 2012\Projects\DocumentSender\DocumentSender\obj\Debug\DocumentSender.csprojResolveAssemblyReference.cache
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\bin\Debug\DocumentSender.exe.config
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.exe
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.pdb
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Formularios.AgDepartamento.resources
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Formularios.AgEmpleado.resources
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Formularios.Principal.resources
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Properties.Resources.resources
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.csproj.GenerateResource.Cache
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\bin\Debug\DocumentSender.exe
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\bin\Debug\DocumentSender.pdb
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Formularios.RegEnvioInterno.resources
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.csprojResolveAssemblyReference.cache
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Formularios.RegEnvioExterno.resources
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Formularios.RegRecInterna.resources
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Formularios.RegRecExterna.resources
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Formularios.Login.resources
+C:\Users\MAESTRO\Desktop\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.Formularios.RegRecEntranteCompletado.resources
+F:\402-2402735-5\DocumentSender\DocumentSender\bin\Debug\DocumentSender.exe.config
+F:\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.exe
+F:\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.pdb
+E:\402-2402735-5\DocumentSender\DocumentSender\bin\Debug\DocumentSender.exe.config
+E:\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.exe
+E:\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.pdb
+S:\PROYECTO  CATSOFT\402-2402735-5\DocumentSender\DocumentSender\bin\Debug\DocumentSender.exe.config
+S:\PROYECTO  CATSOFT\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.exe
+S:\PROYECTO  CATSOFT\402-2402735-5\DocumentSender\DocumentSender\obj\Debug\DocumentSender.pdb

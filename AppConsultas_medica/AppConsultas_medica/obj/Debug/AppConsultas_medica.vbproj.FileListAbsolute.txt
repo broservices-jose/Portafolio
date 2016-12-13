@@ -1,0 +1,69 @@
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.AgendaMedica.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.CitaRed.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.consulta_medica.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Cita.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Login.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Principa.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Medico.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.MedRegistrado.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Resources.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Paciente.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.PacientesRegistrado.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Receta.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Sala.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.SalaReg.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Turno.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.TurnoReg.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Usuario.resources
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.vbproj.GenerateResource.Cache
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\AppConsultas_medica.exe.config
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\AppConsultas_medica.exe
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\AppConsultas_medica.pdb
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\AppConsultas_medica.xml
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\EntityFramework.dll
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\EntityFramework.SqlServer.dll
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\MaterialSkin.dll
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\MySql.Data.dll
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\EntityFramework.xml
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\EntityFramework.SqlServer.xml
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.exe
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.xml
+E:\No tocar\Morillo\Fatima\backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.pdb
+G:\.Trashes\Sistema de consultas medica\Backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\AppConsultas_medica.exe.config
+G:\.Trashes\Sistema de consultas medica\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.exe
+G:\.Trashes\Sistema de consultas medica\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.xml
+G:\.Trashes\Sistema de consultas medica\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.pdb
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\AppConsultas_medica.exe.config
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.exe
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.xml
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.pdb
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\AppConsultas_medica.exe
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\AppConsultas_medica.pdb
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\AppConsultas_medica.xml
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\EntityFramework.dll
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\EntityFramework.SqlServer.dll
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\MySql.Data.dll
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\MySql.Data.Entity.EF6.dll
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\EntityFramework.xml
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\EntityFramework.SqlServer.xml
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.vbprojResolveAssemblyReference.cache
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.AgendaMedica.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.CitaRed.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.consulta_medica.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Cita.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Login.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Principa.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Medico.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.MedRegistrado.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Resources.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Paciente.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.PacientesRegistrado.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Receta.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Sala.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.SalaReg.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Turno.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.TurnoReg.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.Usuario.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\obj\Debug\AppConsultas_medica.vbproj.GenerateResource.Cache
+S:\PROYECTO  CATSOFT\proyecto manuel\Sistema de consultas Medicas\Backup\AppConsultas_medica\AppConsultas_medica\bin\Debug\MaterialSkin.dll

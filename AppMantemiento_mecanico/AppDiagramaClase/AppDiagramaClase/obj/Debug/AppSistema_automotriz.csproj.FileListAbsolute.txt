@@ -1,0 +1,142 @@
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Login.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Menu.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Properties.Resources.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroCliente.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroMecanico.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroOrden.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroUsuario.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Splash.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csproj.GenerateResource.Cache
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe.config
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csprojResolveAssemblyReference.cache
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csprojResolveAssemblyReference.cache
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Login.resources
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Menu.resources
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Properties.Resources.resources
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroCliente.resources
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroMecanico.resources
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroOrden.resources
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroUsuario.resources
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Splash.resources
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csproj.GenerateResource.Cache
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe.config
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.pdb
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\bin\Debug\MySql.Data.dll
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.exe
+D:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.pdb
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe.config
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.exe
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.pdb
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.pdb
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\bin\Debug\MySql.Data.dll
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csprojResolveAssemblyReference.cache
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Login.resources
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Menu.resources
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Properties.Resources.resources
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroCliente.resources
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroMecanico.resources
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroOrden.resources
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroUsuario.resources
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Splash.resources
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csproj.GenerateResource.Cache
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroVehiculo.resources
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Otro.resources
+P:\proyecto manuel\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Servicio.resources
+D:\.Trashes\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe.config
+D:\.Trashes\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.exe
+D:\.Trashes\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.pdb
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe.config
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.exe
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.pdb
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csprojResolveAssemblyReference.cache
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Login.resources
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Menu.resources
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Otro.resources
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Properties.Resources.resources
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroCliente.resources
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroMecanico.resources
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroOrden.resources
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroUsuario.resources
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroVehiculo.resources
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Servicio.resources
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Splash.resources
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csproj.GenerateResource.Cache
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.pdb
+E:\Estevez\AppDiagramaClase\AppDiagramaClase\bin\Debug\MySql.Data.dll
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe.config
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.exe
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csprojResolveAssemblyReference.cache
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Login.resources
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Menu.resources
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Otro.resources
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Properties.Resources.resources
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroCliente.resources
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroMecanico.resources
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroOrden.resources
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroUsuario.resources
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroVehiculo.resources
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Servicio.resources
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Splash.resources
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csproj.GenerateResource.Cache
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.pdb
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\bin\Debug\MySql.Data.dll
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.pdb
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe.config
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.exe
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csprojResolveAssemblyReference.cache
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Login.resources
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Menu.resources
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Otro.resources
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Properties.Resources.resources
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroCliente.resources
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroMecanico.resources
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroOrden.resources
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroUsuario.resources
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroVehiculo.resources
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Servicio.resources
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Splash.resources
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csproj.GenerateResource.Cache
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.pdb
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\bin\Debug\MySql.Data.dll
+P:\proyecto manuel\por si acaso\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.pdb
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.MecanicosRegistrado.resources
+E:\No tocar\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Vehiculosregistrado.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe.config
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.exe
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.pdb
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.pdb
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\bin\Debug\MySql.Data.dll
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csprojResolveAssemblyReference.cache
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Login.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Menu.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Otro.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Properties.Resources.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroCliente.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroMecanico.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroOrden.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroUsuario.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroVehiculo.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Servicio.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Splash.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Vehiculosregistrado.resources
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppSistema_automotriz.csproj.GenerateResource.Cache
+P:\proyecto manuel\backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Clienteregistrado.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.exe
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.pdb
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.pdb
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\bin\Debug\MySql.Data.dll
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Clienteregistrado.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Otro.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.RegistroVehiculo.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Servicio.resources
+E:\No tocar\Morillo\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.Vehiculosregistrado.resources
+F:\.Trashes\Backup\AppDiagramaClase\AppDiagramaClase\bin\Debug\AppDiagramaClase.exe.config
+F:\.Trashes\Backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.exe
+F:\.Trashes\Backup\AppDiagramaClase\AppDiagramaClase\obj\Debug\AppDiagramaClase.pdb

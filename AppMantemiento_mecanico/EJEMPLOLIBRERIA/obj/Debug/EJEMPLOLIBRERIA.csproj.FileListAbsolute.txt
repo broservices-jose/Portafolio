@@ -1,0 +1,5 @@
+P:\proyecto manuel\backup\AppDiagramaClase\EJEMPLOLIBRERIA\bin\Debug\EJEMPLOLIBRERIA.dll
+P:\proyecto manuel\backup\AppDiagramaClase\EJEMPLOLIBRERIA\bin\Debug\EJEMPLOLIBRERIA.pdb
+P:\proyecto manuel\backup\AppDiagramaClase\EJEMPLOLIBRERIA\obj\Debug\EJEMPLOLIBRERIA.csprojResolveAssemblyReference.cache
+P:\proyecto manuel\backup\AppDiagramaClase\EJEMPLOLIBRERIA\obj\Debug\EJEMPLOLIBRERIA.dll
+P:\proyecto manuel\backup\AppDiagramaClase\EJEMPLOLIBRERIA\obj\Debug\EJEMPLOLIBRERIA.pdb

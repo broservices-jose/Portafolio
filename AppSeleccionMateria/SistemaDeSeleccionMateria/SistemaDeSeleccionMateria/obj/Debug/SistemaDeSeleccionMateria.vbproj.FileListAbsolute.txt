@@ -1,0 +1,335 @@
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+c:\users\fcc3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Form1.resources
+C:\Users\FCC3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+C:\Users\FCC3\documents\visual studio 2013\Projects\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+C:\Users\Esmarlin Rosario\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+F:\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+C:\Users\FCC3\Desktop\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+C:\Users\Esmarlin Rosario\Desktop\materia\5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+C:\Users\FCC3\Desktop\droga\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+F:\seleccionmateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+C:\Users\FCC3\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+F:\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria3\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.AgregarMateria.resources
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.AgregarMateria.resources
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+F:\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.SeleccionarCarrera.resources
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.AgregarMateria.resources
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.SeleccionarCarrera.resources
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+C:\Users\FCC3\Desktop\seleccionmateria4\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Configurando.resources
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+E:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+E:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+E:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+E:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Configurando.resources
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.AgregarMateria.resources
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.SeleccionarCarrera.resources
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+F:\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.SeleccionarMateria.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Configurando.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.AgregarMateria.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.SeleccionarMateria.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.SeleccionarCarrera.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+C:\Users\Esmarlin Rosario\Desktop\seleccionde materias XD\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.pdb
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.xml
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.dll
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.dll
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.dll
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\MySql.Data.Entity.EF6.dll
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.xml
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\EntityFramework.SqlServer.xml
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbprojResolveAssemblyReference.cache
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Resources.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Registro.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Configurando.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Splash.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.AgregarMateria.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.Login.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.RegistrarEstudiante.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.SeleccionarMateria.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.SeleccionarCarrera.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
+S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
