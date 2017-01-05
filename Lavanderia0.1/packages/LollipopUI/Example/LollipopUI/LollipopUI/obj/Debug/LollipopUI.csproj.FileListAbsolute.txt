@@ -1,0 +1,9 @@
+c:\users\mark-17\documents\visual studio 2013\Projects\LollipopUI\LollipopUI\bin\Debug\LollipopUI.exe.config
+c:\users\mark-17\documents\visual studio 2013\Projects\LollipopUI\LollipopUI\bin\Debug\LollipopUI.exe
+c:\users\mark-17\documents\visual studio 2013\Projects\LollipopUI\LollipopUI\bin\Debug\LollipopUI.pdb
+c:\users\mark-17\documents\visual studio 2013\Projects\LollipopUI\LollipopUI\obj\Debug\LollipopUI.MainForm.resources
+c:\users\mark-17\documents\visual studio 2013\Projects\LollipopUI\LollipopUI\obj\Debug\LollipopUI.Properties.Resources.resources
+c:\users\mark-17\documents\visual studio 2013\Projects\LollipopUI\LollipopUI\obj\Debug\LollipopUI.csproj.GenerateResource.Cache
+c:\users\mark-17\documents\visual studio 2013\Projects\LollipopUI\LollipopUI\obj\Debug\LollipopUI.exe
+c:\users\mark-17\documents\visual studio 2013\Projects\LollipopUI\LollipopUI\obj\Debug\LollipopUI.pdb
+C:\Users\Mark-17\Documents\Visual Studio 2013\Projects\LollipopUI\LollipopUI\obj\Debug\LollipopUI.csprojResolveAssemblyReference.cache

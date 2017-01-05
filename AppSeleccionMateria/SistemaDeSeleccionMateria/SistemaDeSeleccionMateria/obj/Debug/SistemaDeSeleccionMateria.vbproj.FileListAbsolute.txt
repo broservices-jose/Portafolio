@@ -333,3 +333,7 @@ S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccio
 S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.SeleccionarCarrera.resources
 S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.VentanaPrincipal.resources
 S:\PROYECTO  CATSOFT\proyecto manuel\backup\seleccionmateria 5\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.vbproj.GenerateResource.Cache
+S:\PROYECTO  CATSOFT\Portafolio\Portafolio\AppSeleccionMateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\bin\Debug\SistemaDeSeleccionMateria.exe.config
+S:\PROYECTO  CATSOFT\Portafolio\Portafolio\AppSeleccionMateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.exe
+S:\PROYECTO  CATSOFT\Portafolio\Portafolio\AppSeleccionMateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.xml
+S:\PROYECTO  CATSOFT\Portafolio\Portafolio\AppSeleccionMateria\SistemaDeSeleccionMateria\SistemaDeSeleccionMateria\obj\Debug\SistemaDeSeleccionMateria.pdb
