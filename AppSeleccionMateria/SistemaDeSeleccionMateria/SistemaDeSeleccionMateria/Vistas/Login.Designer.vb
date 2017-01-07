@@ -62,7 +62,7 @@ Partial Class Login
         Me.textClave.PasswordChar = Global.Microsoft.VisualBasic.ChrW(8226)
         Me.textClave.Size = New System.Drawing.Size(362, 33)
         Me.textClave.TabIndex = 18
-        Me.textClave.Text = "clave"
+        Me.textClave.Text = "123456"
         '
         'Label3
         '
@@ -121,7 +121,7 @@ Partial Class Login
         Me.textCuenta.Name = "textCuenta"
         Me.textCuenta.Size = New System.Drawing.Size(362, 33)
         Me.textCuenta.TabIndex = 17
-        Me.textCuenta.Text = "esmarlin@sistema"
+        Me.textCuenta.Text = "juanito"
         '
         'LinkLabel2
         '

@@ -12,19 +12,24 @@ Public Class Configurando
 
         Dim ventana As New VentanaPrincipal()
 
-        ventana.botonCarreras.Hide()
-        ventana.botonGestionEmpresa.Hide()
-        ventana.botonGestionMaterias.Hide()
-        ventana.botonUsuarios.Hide()
-        ventana.botonOpciones.Hide()
+        Try
+            ventana.botonCarreras.Hide()
+            ventana.botonGestionEmpresa.Hide()
+            ventana.botonGestionMaterias.Hide()
+            ventana.botonUsuarios.Hide()
+            ventana.botonOpciones.Hide()
 
-        ventana.tabControlPrincipal.SelectedIndex = 5
+            ventana.tabControlPrincipal.SelectedIndex = 5
 
-        '---------------------------------------------
-        VentanaPrincipal.VentanaPrincipalConpartida.pictureBoxEstudiante.ImageLocation =
-        ModeloImagenes.cargarImagen(VentanaPrincipal.usuarioActual, ModeloUsuarios.ESTUDIANTE)
-        '---------------------------------------------
-        ventana.Show()
+            '---------------------------------------------
+            VentanaPrincipal.VentanaPrincipalConpartida.pictureBoxEstudiante.ImageLocation =
+            ModeloImagenes.cargarImagen(VentanaPrincipal.usuarioActual, ModeloUsuarios.ESTUDIANTE)
+            '---------------------------------------------
+            ventana.Show()
+        Catch ex As Exception
+            MessageBox.Show(ex.StackTrace + ex.Message)
+        End Try
+        
     End Sub
 
     Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
