@@ -456,7 +456,7 @@ namespace Lavanderia0._1
                 ParameterValues valor = new ParameterValues();
                 ParameterDiscreteValue discretevalor = new ParameterDiscreteValue();
 
-                discretevalor.Value = 3; //f.dameid1();
+                discretevalor.Value =  f.dameid1();
                 definiciones_parametros = crystalrpt.DataDefinition.ParameterFields;
                 definicion_parametro = definiciones_parametros["param1"];
                 valor = definicion_parametro.CurrentValues;
@@ -507,6 +507,7 @@ namespace Lavanderia0._1
                             desvalicliente();
                             limpiardgv();
                             limpiarcliente();
+                            imprimir();
                         }
                         else
                         {
@@ -524,6 +525,7 @@ namespace Lavanderia0._1
                         desvalicliente();
                         limpiardgv();
                         limpiarcliente();
+                        imprimir();
                     }
                     else
                     {
@@ -628,7 +630,7 @@ namespace Lavanderia0._1
 
         private void button9_Click(object sender, EventArgs e)
         {
-            imprimir();
+            this.Close();
         }
 
         // ****************************************************************** ||
